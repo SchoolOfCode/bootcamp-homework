@@ -1,21 +1,21 @@
 # Bootcamp Preparatory Work
 
-[Session 1](https://youtu.be/3LiTM3hKM0I)
-[Session 2](https://youtu.be/--bdytovKns)
+- [Session 1](https://youtu.be/3LiTM3hKM0I)
+- [Session 2](https://youtu.be/--bdytovKns)
 
 ## Required
 
-[ ] [Line Commander](#Line%20Commander)
-[ ] [CSS Diner](http://flukeout.github.io/)
-[ ] [Make Your own Website](#Make%20A%20Website)
+- [ ] [Line Commander](#Line%20Commander)
+- [ ] [CSS Diner](http://flukeout.github.io/)
+- [ ] [Make Your own Website](#Make%20A%20Website)
 
 ## Extra Resources
 
-[ ] [Intro to HTML](https://www.codecademy.com/learn/learn-html)
-[ ] [Intro to CSS](https://www.codecademy.com/learn/learn-css)
-[ ] [Intro To Computer Networks](https://youtu.be/3QhU9jd03a0)
-[ ] [The Internet](https://youtu.be/AEaKrq3SpW8)
-[ ] [The World Wide Web](https://youtu.be/guvsH5OFizE)
+- [ ] [Intro to HTML](https://www.codecademy.com/learn/learn-html)
+- [ ] [Intro to CSS](https://www.codecademy.com/learn/learn-css)
+- [ ] [Intro To Computer Networks](https://youtu.be/3QhU9jd03a0)
+- [ ] [The Internet](https://youtu.be/AEaKrq3SpW8)
+- [ ] [The World Wide Web](https://youtu.be/guvsH5OFizE)
 
 ## Line Commander
 
