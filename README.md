@@ -7,7 +7,7 @@
 
 - [ ] [Line Commander](#line-commander)
 - [ ] [CSS Diner](http://flukeout.github.io/)
-- [ ] [Make Your own Website](#make-a-Website)
+- [ ] [Make Your Own Website](#make-a-Website)
 
 ## Extra Resources
 
