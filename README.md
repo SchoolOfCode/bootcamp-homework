@@ -19,9 +19,9 @@
 
 ## Line Commander
 
-First download and unzip the games folders, if you are on Mac/Linux then it's[GAME.zip](https://github.com/SchoolOfCode/bootcamp-homework/raw/master/assets/GAME.zip), if you are using a windows machine then download [GAME_WINDOWS.zip](https://github.com/SchoolOfCode/bootcamp-homework/raw/master/assets/GAME_WINDOWS.zip).
+First download and unzip the games folders, if you are on Mac/Linux then it's [GAME.zip](https://github.com/SchoolOfCode/bootcamp-homework/raw/master/assets/GAME.zip), if you are using a windows machine then download [GAME_WINDOWS.zip](https://github.com/SchoolOfCode/bootcamp-homework/raw/master/assets/GAME_WINDOWS.zip).
 
-Once you extract the contents you will see that it contains a folder called GAME or GAME_WINDOWS. Move that folder (not the .zip file) to a place on your computer where you would like to store it.
+Once you extract the contents you will see that it contains a folder called `GAME` or `GAME_WINDOWS`. Move that folder (not the .zip file) to a place on your computer where you would like to store it.
 
 ### Getting to the folder on the command line.
 
