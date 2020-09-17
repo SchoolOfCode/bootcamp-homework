@@ -5,9 +5,9 @@
 
 ## Required
 
-- [ ] [Line Commander](#Line%20Commander)
+- [ ] [Line Commander](#line-commander)
 - [ ] [CSS Diner](http://flukeout.github.io/)
-- [ ] [Make Your own Website](#Make%20A%20Website)
+- [ ] [Make Your own Website](#make-a-Website)
 
 ## Extra Resources
 
