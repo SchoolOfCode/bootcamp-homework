@@ -23,12 +23,12 @@ First download and unzip the games folders, if you are on Mac/Linux then it's[GA
 
 Once you extract the contents you will see that it contains a folder called GAME or GAME_WINDOWS. Move that folder (not the .zip file) to a place on your computer where you would like to store it.
 
-## Getting to the folder on the command line.
+### Getting to the folder on the command line.
 
 - If you are on a mac, right click on the folder and select `New Terminal at Folder` or `Services > New Terminal at Folder` or equivalent.
 - If you are on windows then you will first need to download [Git Bash](https://git-scm.com/downloads) ([tutorial here if you need](https://www.youtube.com/watch?v=nbFwejIsHlY)) in order to start playing. Once you have Git Bash installed, right click on the GAME folder and select `Git Bash Here`. This will start a Git Bash terminal at the correct location so that we can start the game.
 
-## Playing the game
+### Playing the game
 
 To read your first instruction you must use our first ever bash command! `cat`, followed by a file name, prints the text contents of the file to the screen. The file we want to read is called `start.txt`, so we can type in `cat start.txt`.
 
